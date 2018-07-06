@@ -1,0 +1,6 @@
+framework module Pods_JSON_Firebase {
+  umbrella header "Pods-JSON-Firebase-umbrella.h"
+
+  export *
+  module * { export * }
+}
